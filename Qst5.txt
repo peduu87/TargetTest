@@ -1,0 +1,1 @@
+Deixaria dois interruptores ligados e apenas um ligado, indo ver, assim, qual lâmpada está acesa, descobrindo o primeiro. Depois, apagaria o que eu já sei e ligaria um outro, descobrindo assim qual lâmpada ele controla e, juntamente, atriibuindo a lâmpada que sobra ao interruptor que não liguei.
